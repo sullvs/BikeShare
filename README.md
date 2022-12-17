@@ -4,13 +4,13 @@
 Include the date you created this project and README file.
 
 ### Project Title
-Replace the Project Title
+BikeShare Python Project
 
 ### Description
-Describe what your project is about and what it does
+A file that uses the pandas library in Python to provide the user with some statistics about a bike management system in three different cities. These statistics include the most popular destinations, most popular hour.. and many more.
 
 ### Files used
-Include the files used
+bikeshare.py
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
