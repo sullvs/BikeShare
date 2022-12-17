@@ -7,7 +7,7 @@ Include the date you created this project and README file.
 BikeShare Python Project
 
 ### Description
-A file that uses the pandas library in Python to provide the user with some statistics about a bike management system in three different cities. These statistics include the most popular destinations, most popular hour.. and many more.
+A file that uses the pandas library in Python to provide the user with some statistics about a bike management system in three different cities. These statistics include the most popular destinations, most popular hour & more.
 
 ### Files used
 bikeshare.py
