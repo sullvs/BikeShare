@@ -24,7 +24,7 @@ def get_filters():
         print('Invalid city, city should be any of the following ', valid_cities)
         city = input('name of the city to analyze: ').lower()
 
-    # get user input for month (all, january, february, ... , june)
+    # get user input for every month (all, january, february, ... , june)
     months = ['all', 'january', 'february', 'march', 'april', 'may', 'june']
     month = input('name of the month to filter by, or "all" to apply no month filter: ').lower()
     while month not in months:
